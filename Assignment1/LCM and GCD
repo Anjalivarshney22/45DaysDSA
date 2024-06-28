@@ -1,0 +1,18 @@
+class Solution {
+    static Long[] lcmAndGcd(Long a, Long b) {
+        long gcd = fgcd(a, b);
+        long lcm = (a * b) / gcd;
+        return new Long[]{lcm, gcd};
+    }
+
+    public static long fgcd(Long a, Long b) {
+        while (a > 0 && b > 0) {
+            if (a > b) {
+                a = a % b;
+            } else {
+                b = b % a;
+            }
+        }
+        return (a == 0) ? b : a;
+    }
+}

@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int t = s.nextInt();
+        while (t-- > 0) {
+            int A = s.nextInt();
+            int B = s.nextInt();
+            int C = s.nextInt();
+            int N = s.nextInt();
+            System.out.println(geekOnacci(A, B, C, N));
+        }
+    }
+
+    public static int geekOnacci(int A, int B, int C, int N) {
+        // Base cases
+        if (N==1) return A;
+        if (N==2) return B;
+        if (N==3) return C;
+        return geekOnacci(A,B,C,N - 1)+geekOnacci(A,B,C,N - 2) + geekOnacci(A,B, C, N - 3);
+    }
+}

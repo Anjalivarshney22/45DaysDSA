@@ -1,0 +1,30 @@
+ boolean[] vis = new boolean[V];
+        boolean[] stack = new boolean[V];
+        
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]) {
+                if (detect(adj, vis, stack, i)) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    public static boolean detect(ArrayList<ArrayList<Integer>> adj, boolean[] vis, boolean[] stack, int cur) {
+        vis[cur] = true;
+        stack[cur] = true;
+        
+        for (int nbr : adj.get(cur)) {
+            if (!vis[nbr]) {
+                if (detect(adj, vis, stack, nbr)) {
+                    return true;
+                }
+            } else if (stack[nbr]) {
+                return true;
+            }
+        }
+        
+        stack[cur] = false;
+        return false;
+    }

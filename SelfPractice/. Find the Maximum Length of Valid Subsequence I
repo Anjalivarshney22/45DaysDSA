@@ -1,0 +1,22 @@
+class Solution {
+    public int maximumLength(int[] nums) {
+        int ce=0,co=0,c=0,f=-1;
+        for(int i:nums){
+         if(i%2!=0){
+            co++;
+            if(f!=1){
+                c++;
+                f=1;
+            }
+         }
+         else{
+            ce++;
+            if(f!=0){
+                c++;
+                f=0;
+            }
+         }
+        }
+        return Math.max(c,Math.max(co,ce));
+    }
+}

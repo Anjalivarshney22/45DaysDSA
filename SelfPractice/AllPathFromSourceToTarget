@@ -1,0 +1,22 @@
+class Solution {
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        list.add(0);
+         helper(graph,res,list,0,graph.length-1);
+         return res;
+        
+    }
+    static void  helper(int [][] graph,List<List<Integer>>res,List<Integer>list,int src,int des){
+      
+      if(src==des){
+        res.add(new ArrayList<>(list));
+        return;
+      }
+      for(int nbr:graph[src]){
+        list.add(nbr);
+        helper(graph,res,list,nbr,des);
+        list.remove(list.size()-1);
+      }
+    }
+}

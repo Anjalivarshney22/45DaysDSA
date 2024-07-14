@@ -13,4 +13,21 @@ public static Node reverseDLL(Node  head)
         
     }
     return prev;
+// more  optimized solution 
+Node cur = head;
+    Node temp = null;
+    
+    while (cur != null) {
+        // Swap prev and next pointers
+        temp = cur.prev;
+        cur.prev = cur.next;
+        cur.next = temp;
+        cur = cur.prev;
+    }
+    if (temp != null) {
+        head = temp.prev;
+    }
+    
+    return head;
+}
 }

@@ -1,0 +1,26 @@
+class Solution {
+    
+    private int index;
+
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        index = postorder.length - 1;
+        return constructTree(inorder, postorder, 0, inorder.length - 1);
+    }
+    
+    private TreeNode constructTree(int[] inorder, int[] postorder, int start, int end) {
+        if (start > end) return null;
+        
+        int rootval = postorder[index--];
+        TreeNode root = new TreeNode(rootval);
+        int i = start;
+        for (; i <= end; i++) {
+            if (inorder[i] == rootval) {
+                break;
+            }
+        }
+        root.right = constructTree(inorder, postorder, i + 1, end);
+        root.left = constructTree(inorder, postorder, start, i - 1);
+        
+        return root;
+    }
+}

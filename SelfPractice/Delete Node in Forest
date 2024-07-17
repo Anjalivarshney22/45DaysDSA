@@ -1,0 +1,38 @@
+class Solution {
+    ArrayList<TreeNode> list = new ArrayList<>();
+    HashSet<Integer> set1 = new HashSet<>();
+
+    public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
+        if (root == null) return new ArrayList<>();
+
+        for (int i : to_delete) {
+            set1.add(i);
+        }
+
+        root = delete(root);
+        if (root != null) {
+            list.add(root);
+        }
+
+        return list;
+    }
+
+    TreeNode delete(TreeNode root) {
+        if (root == null) return null;
+
+        root.left = delete(root.left);
+        root.right = delete(root.right);
+
+        if (set1.contains(root.val)) {
+            if (root.left != null) {
+                list.add(root.left);
+            }
+            if (root.right != null) {
+                list.add(root.right);
+            }
+            return null;
+        }
+
+        return root;
+    }
+}

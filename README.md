@@ -68,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1480-movie-rating](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->

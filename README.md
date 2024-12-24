@@ -35,16 +35,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->

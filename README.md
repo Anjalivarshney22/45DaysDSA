@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0006-zigzag-conversion) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Shortest Path
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0011-container-with-most-water) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Tree
 |  |
 | ------- |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->

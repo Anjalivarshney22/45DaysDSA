@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0006-zigzag-conversion) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0011-container-with-most-water) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |
 | ------- |

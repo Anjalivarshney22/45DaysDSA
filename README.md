@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Stack
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0494-target-sum) |
 | [0932-monotonic-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0932-monotonic-array) |
+| [1063-best-sightseeing-pair](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1063-best-sightseeing-pair](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
 | ------- |

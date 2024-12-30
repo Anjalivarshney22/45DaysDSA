@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0010-regular-expression-matching) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0010-regular-expression-matching) |
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0494-target-sum) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1755-defuse-the-bomb) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

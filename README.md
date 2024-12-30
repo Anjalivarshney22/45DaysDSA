@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1755-defuse-the-bomb) |
+| [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
+| [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Depth-First Search
 |  |

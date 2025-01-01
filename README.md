@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0010-regular-expression-matching) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
+| [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0932-monotonic-array) |
 | [1063-best-sightseeing-pair](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1063-best-sightseeing-pair) |
+| [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1755-defuse-the-bomb) |
 | [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
+| [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -189,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
+## Trie
+|  |
+| ------- |
+| [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 <!---LeetCode Topics End-->

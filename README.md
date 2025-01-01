@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1755-defuse-the-bomb) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |

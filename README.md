@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
 | [2752-sum-multiples](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sorting
 |  |
 | ------- |

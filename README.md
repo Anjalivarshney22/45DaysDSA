@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0010-regular-expression-matching) |
+| [0742-to-lower-case](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1537-maximum-score-after-splitting-a-string) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0739-daily-temperatures](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0878-shifting-letters) |
 | [0932-monotonic-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0932-monotonic-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0739-daily-temperatures) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0739-daily-temperatures) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |

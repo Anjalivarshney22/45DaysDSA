@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0878-shifting-letters) |
 | [0932-monotonic-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0932-monotonic-array) |
+| [0952-word-subsets](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1063-best-sightseeing-pair) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
+| [0952-word-subsets](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0952-word-subsets) |
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1960-check-if-the-sentence-is-pangram) |

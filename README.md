@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-number-of-valid-words-for-each-puzzle](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1282-number-of-valid-words-for-each-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1755-defuse-the-bomb) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2476-check-distances-between-same-letters](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1502-construct-k-palindrome-strings) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/2300-construct-string-with-repeat-limit) |
 ## Tree

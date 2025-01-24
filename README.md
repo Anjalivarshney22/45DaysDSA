@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1415-students-and-examinations) |
 | [1480-movie-rating](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/Anjalivarshney22/45DaysDSA/tree/master/1670-patients-with-a-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
